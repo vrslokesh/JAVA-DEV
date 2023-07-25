@@ -1,4 +1,4 @@
-import java.util.*;
+//import java.util.*;
 
 public class MethodOverloading {
     public static void main(String[] args) {
@@ -13,8 +13,8 @@ public class MethodOverloading {
     }
     public static double convertToCentimeters(int feet, int inches){
         //conversion of feet to inches
-        inches  = 12 * feet;
-        return (convertToCentimeters(inches) + 8);
+        int i  = 12 * feet;
+        return (convertToCentimeters(i) + inches);
 
         //Test comments
 
