@@ -1,0 +1,34 @@
+Introduce yourself....!
+Roles and responsibilities
+JAVA and SQL developer
+Started API and JDBC conpcepts
+Basics of Spring
+
+JAVA
+
+
+OOPS- Concepts
+
+Abstract vs Interface
+Arrays & Strings
+Collection frameworks
+Exception Handling
+Threads
+Java 8 Features
+Method overloading and Method overidding
+This vs Super
+Use of Wrapper classes
+Static variable vs instance variable
+Abstraction vs Abstract keyword
+Database(DBMS)
+DDL vs DML
+Joins and sets
+Aggregation functions
+Jsp Pages
+
+
+
+
+
+
+
